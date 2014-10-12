@@ -10,4 +10,6 @@ friday
 
 saturday
 
+sunday
+
 
