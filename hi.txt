@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 monday
 
 tuesday
@@ -13,3 +14,19 @@ saturday
 sunday
 
 
+=======
+monday
+
+birthday
+tuesday
+
+wednesday
+
+thursday
+
+friday
+
+saturday
+
+
+>>>>>>> 44b41a45185b6044111b552f78906b2b087351ac
