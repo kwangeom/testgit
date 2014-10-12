@@ -1,3 +1,14 @@
 monday
 
 birthday
+tuesday
+
+wednesday
+
+thursday
+
+friday
+
+saturday
+
+
